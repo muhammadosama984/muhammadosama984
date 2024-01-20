@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **muhammadosama984@gmail.com**
 
-- ⚡ Fun fact **Love to talk about football, financial markets**
+- ⚡ Fun fact **Love to talk about football, and financial markets**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
