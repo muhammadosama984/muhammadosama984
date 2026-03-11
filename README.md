@@ -3,8 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🌱 I’m currently learning **DevOps, Docker, Kubernetes**
-
 - 📫 How to reach me **muhammadosama984@gmail.com**
 
 - ⚡ Fun fact **Love to talk about football, and financial markets**
